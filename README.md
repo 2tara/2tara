@@ -1,4 +1,6 @@
-1)public static double meanOfMoreThan150(int[] array) {
+1)
+
+public static double meanOfMoreThan150(int[] array) {
     int sum = 0;
     int count = 0;
 
@@ -15,7 +17,9 @@
     return 0;
 }
 
-2)public static double averageOfOddNumbers(int[] array) {
+2)
+
+public static double averageOfOddNumbers(int[] array) {
     int sum = 0;
     int count = 0;
 
@@ -34,7 +38,9 @@
 }
 
 
-3)public class Department {
+3)
+
+public class Department {
     private String name;
     private String location;
     private int numberOfEmployees;
@@ -110,7 +116,9 @@
 
 }
 
-4) import java.io.File;
+4) 
+
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
